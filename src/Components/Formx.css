@@ -1,0 +1,24 @@
+.flexy {
+  padding: 10px;
+}
+
+.glex2 {
+  position: relative;
+  left: 90px;
+  display: flex;
+  margin-left: 50px;
+  padding: 20px;
+  padding-left: 20px;
+}
+
+.glam {
+  padding-left: 40px;
+}
+
+.bttn {
+  position: relative;
+  left: 49%;
+}
+.babs {
+  color: red;
+}
